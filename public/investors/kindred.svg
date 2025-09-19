@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" fill="none">
+  <rect width="160" height="64" rx="12" fill="#f2efe7"/>
+  <circle cx="40" cy="32" r="12" stroke="#0097b2" stroke-width="4"/>
+  <circle cx="40" cy="32" r="4" fill="#0097b2"/>
+  <path d="M70 20H78L88 32L98 20H106V52H98V36L90 46H86L78 36V52H70V20Z" fill="#000"/>
+  <text x="112" y="40" font-family="'League Spartan', sans-serif" font-size="14" fill="#000">Kindred</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" fill="none">
+  <rect width="160" height="64" rx="12" fill="#f2efe7"/>
+  <path d="M32 46L47 18L62 46H56L52.5 39H41.5L38 46H32Z" fill="#0097b2"/>
+  <path d="M82 20C74.268 20 68 26.268 68 34C68 41.732 74.268 48 82 48C89.732 48 96 41.732 96 34H90C90 38.418 86.418 42 82 42C77.582 42 74 38.418 74 34C74 29.582 77.582 26 82 26C84.613 26 86.933 27.217 88.4 29H95.6C93.114 23.713 88.026 20 82 20Z" fill="#000"/>
+  <text x="102" y="40" font-family="'League Spartan', sans-serif" font-size="16" fill="#000">Aurora</text>
+</svg>

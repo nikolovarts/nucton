@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" fill="none">
+  <rect width="160" height="64" rx="12" fill="#f2efe7"/>
+  <path d="M40 18L44 30L56 34L44 38L40 50L36 38L24 34L36 30L40 18Z" fill="#0097b2"/>
+  <path d="M70 20H78L90 38V20H98V52H90L78 34V52H70V20Z" fill="#000"/>
+  <text x="106" y="40" font-family="'League Spartan', sans-serif" font-size="13" fill="#000">Northstar</text>
+</svg>

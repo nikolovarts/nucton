@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" fill="none">
+  <rect width="160" height="64" rx="12" fill="#f2efe7"/>
+  <path d="M38 46C38 34 48 22 60 22V30C52 30 44 38 44 46H38Z" fill="#0097b2"/>
+  <path d="M68 20H74L86 44L98 20H104L88 52H82L68 20Z" fill="#000"/>
+  <text x="108" y="40" font-family="'League Spartan', sans-serif" font-size="14" fill="#000">Launch</text>
+</svg>

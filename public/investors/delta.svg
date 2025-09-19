@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" fill="none">
+  <rect width="160" height="64" rx="12" fill="#f2efe7"/>
+  <path d="M28 46L52 18H62L38 46H28Z" fill="#0097b2"/>
+  <path d="M76 20H88C95 20 100 25 100 32C100 39 95 44 88 44H82V52H76V20ZM82 26V38H87.5C91.5 38 94 35.5 94 32C94 28.5 91.5 26 87.5 26H82Z" fill="#000"/>
+  <text x="108" y="40" font-family="'League Spartan', sans-serif" font-size="16" fill="#000">Delta</text>
+</svg>
